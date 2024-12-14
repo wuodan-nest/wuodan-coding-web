@@ -27,7 +27,7 @@ Setting Up Your Development Environment
 Clone the Repository:
 Bash
 
-git clone https://github.com/<your-username>/web-dev-exercises.git
+git clone https://github.com/Stoned-KING/wuodan-coding-web.git
 Navigate to the Project Directory:
 Bash
 
