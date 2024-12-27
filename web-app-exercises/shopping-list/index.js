@@ -32,9 +32,13 @@ const addItem = function() {
     itemList.appendChild(itemButton);
     itemButton.textContent = "Delete";
     list.appendChild(itemList);
+
+    itemButton.addEventListener("click", removeItem);
+
+    input.focus();
 };
 
 button.addEventListener("click", addItem);
-itemButton.addEventListener("click", removeItem);
-input.focus();
+
+
 
