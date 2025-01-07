@@ -1,70 +1,43 @@
 # wuodan-coding-web
-A collection of HTML, CSS, and JavaScript exercises to practice fundamental and advanced web development topics.
 
-Web Development Exercises
-Welcome to my web development journey!
+This repository contains HTML, CSS, and JavaScript exercises to help you learn web development.
 
-This repository is a collection of HTML, CSS, and JavaScript exercises compiled to help me snapshot my web development skills.
+**Getting Started**
 
-Getting Started
-Prerequisites
-Before you begin, ensure you have the following tools installed:
+1. **Install these:** 
+    * **Node.js and npm:** To run JavaScript outside of a web browser.
+    * **Node Version Manager (nvm - optional):** To manage different Node.js versions. (Find instructions at [https://github.com/nvm-sh](https://github.com/nvm-sh))
+    * **A code editor:** Choose one you like (e.g., Visual Studio Code, Sublime Text).
 
-Node.js and npm (or yarn):
+2. **Clone the repository:**
+   Use `git clone [https://github.com/wuodan-nest/wuodan-coding-web.git](https://github.com/wuodan-nest/wuodan-coding-web.git)`
 
-Node Version Manager (nvm): For managing multiple Node.js versions.
-Install nvm following the instructions on the official website: https://github.com/nvm-sh
-Once installed, use nvm install <version> to install a specific Node.js version.
-npm (Node Package Manager): Comes bundled with Node.js. Use it to manage dependencies for your projects.
-Install npm packages using npm install <package-name>.
-A Code Editor:
+3. **Navigate to the project folder:** 
+   Use `cd wuodan-coding-web`
 
-Visual Studio Code: A popular, free, and open-source code editor.
-Sublime Text: A powerful and customizable text editor.
-Emacs: A highly customizable and extensible text editor.
-WebStorm: A comprehensive IDE specifically designed for web development.
-Setting Up Your Development Environment
-Clone the Repository:
-Bash
+4. **Install necessary packages:**
+   Use `npm install`
 
-git clone https://github.com/Stoned-KING/wuodan-coding-web.git
-Navigate to the Project Directory:
-Bash
+**Exercise Structure**
 
-cd web-dev-exercises
-Install Dependencies:
-Bash
+Each exercise has this structure:
 
-npm install
-Exercise Structure
+* `exercise-name/`
+    * `index.html` (for the HTML)
+    * `style.css` (for the CSS styles)
+    * `script.js` (for the JavaScript code)
 
-Each exercise is typically organized into the following structure:
+**Learning Goals**
 
-exercise-name
-├── index.html
-├── style.css
-└── script.js
+* Practice basic and advanced web development concepts.
+* Improve your HTML, CSS, and JavaScript skills.
+* Learn best practices for accessibility, SEO, and responsive design.
 
-Short Term Goals:
+**Important Notes**
 
-WCAG Accessibility:
-
-Semantic HTML: Use appropriate HTML elements to structure your content.
-Alternative Text: Provide alternative text for images to make them accessible to screen readers.
-Keyboard Navigation: Ensure your website can be fully navigated using a keyboard.
-Color Contrast: Use sufficient color contrast between text and background.
-Responsive Design: Make your website accessible on different devices and screen sizes.
-SEO Best Practices:
-
-Meta Tags: Use title, meta description, and meta keywords tags to optimize your website for search engines.
-Header Tags: Use h1, h2, h3, etc. tags to structure your content and improve readability.
-Image Optimization: Optimize images for size and format to improve page load speed.
-URL Structure: Use descriptive and keyword-rich URLs.
-Mobile-Friendliness: Ensure your website is mobile-friendly.
-
-Boilerplate Template
-
-Work on an out-of the box CSS boilerplate.
-Can try SASS or SCSS technology.
+* **Accessibility:** Focus on things like using meaningful HTML elements, adding image descriptions, and making sure the website is usable with a keyboard.
+* **SEO:** Learn about using meta tags, headings, and image optimization to help search engines understand your website.
+* **Responsive Design:** Create websites that look good on all screen sizes (phones, tablets, computers).
+* **CSS Boilerplate:** Consider creating a starting point for your CSS to make your projects more consistent.
 
 Happy coding!
