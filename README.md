@@ -40,4 +40,4 @@ Each exercise has this structure:
 * **Responsive Design:** Create websites that look good on all screen sizes (phones, tablets, computers).
 * **CSS Boilerplate:** Consider creating a starting point for your CSS to make your projects more consistent.
 
-Happy coding!
+**This is a personal repository for learning and experimentation.** 
